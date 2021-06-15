@@ -4,4 +4,5 @@
 * [Mundarija](mundarija.md)
 * [1. Salom, Arduino!](salom-arduino.md)
 * [2. Entry va Arduino](entry-va-arduino.md)
+* [3. Entryni Arduinoga ulash](3.-entryni-arduinoga-ulash.md)
 
