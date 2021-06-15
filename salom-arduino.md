@@ -2,9 +2,9 @@
 
 ### Arduino o'zi nima?
 
-**Arduino** pastki rasmday ko'rinadigan _**kichkina plata**_ dir. Kichkina plata ustidan faqat bir nechta elektron qismlar borligida arzimas narsa deb ko'rinish mumkin. Lekin aslida o'zi turli-tuman ishlarni bajara oladigan _**kichik komputer**_ dir. Arduino dunyoda paydo bo'lgan sababi Italayda texnologiya va san'atni birlashtirib o'rgatadigan instituti\(IDII: Interaction Desigin Institute Ivrea\)dagi ikkita professorlar\(Massimo Banzi, David Cuartielles\)dan boshlagandir. U instituti ayniqsa texnologiyani ishlatib ifodalaydigan raqamli san'atga mo'ljallagan sababidan institutdagi talabalar texnologiya bo'yicha boshlang'ich hamda texnologiya bo'yicha mutaxasis bo'lishga shart emas edi. Ikkita professor ularday **boshlang'ichlar oson ishlatib oladigan va narx ham arzon bo'ladigan mikrokontroller plata**ni yasab berdilar. Va hamma dunyodagi odamlar uchun bemalol foydalishga ochiq imkon bergan edilar. 
+**Arduino** pastki rasmday ko'rinadigan _**kichkina plata**_ dir. Kichkina plata ustidan faqat bir nechta elektron qismlar borligida arzimas narsa deb ko'rinish mumkin. Lekin aslida o'zi turli-tuman ishlarni bajara oladigan _**kichik komputer**_ dir. Arduino dunyoda paydo bo'lgan sababi Italayda texnologiya va san'atni birlashtirib o'rgatadigan instituti\(IDII: Interaction Desigin Institute Ivrea\)dagi ikkita professorlar\(Massimo Banzi, David Cuartielles\)dan boshlagandir. U instituti ayniqsa texnologiyani ishlatib ifodalaydigan raqamli san'atga mo'ljallagan sababidan institutdagi talabalar texnologiya bo'yicha boshlang'ich hamda texnologiya bo'yicha mutaxasis bo'lishga shart emas edi. Ikkita professor ularday _**boshlang'ichlar oson ishlatib oladigan va narx ham arzon bo'ladigan mikrokontroller plata**_ni yasab berdilar. Va hamma dunyodagi odamlar uchun bemalol foydalishga ochiq imkon bergan edilar. 
 
-**Hozircha texnika ta'minotlar bo'yicha dasturlashni o'rgatishga dunyoda eng ko'p foydalanadigan mashuhur mikrokontroller** bo'lgandir. Hamda hobby sifatida asarlarni yaratishga, zavoddan tijoriy mahsulotni ishilab chiqarishdan oldin sinab ko'rish uchun prototipni yaratishga ham ko'p foydalanadi.
+_**Hozircha texnika ta'minotlar bo'yicha dasturlashni o'rgatishga dunyoda eng ko'p foydalanadigan mashuhur mikrokontroller**_ bo'lgandir. Hamda hobby sifatida asarlarni yaratishga, zavoddan tijoriy mahsulotni ishilab chiqarishdan oldin sinab ko'rish uchun prototipni yaratishga ham ko'p foydalanadi.
 
 ![Arduino Uno](.gitbook/assets/image%20%282%29.png)
 
@@ -16,7 +16,7 @@ Arduino platada razmer eng katta va qora rangli tortburchak qismi **mikrokontrol
 
 ## Arduino plata turlari
 
-Arduino platada mikrokontrollernin kuchi, plataning razmeri, tashqi elektron qurilmalar bilan bog'lash uchun kirish/chiqish portlar\(PIN\)ning soni va hokazoga qarab bir nechta turlari bor. Har bir plataning xususiyatiqa qarab o’zingiz amalga oshiradigan loyihaga mos platani tanlay olishingiz lozim. Arduino plata orasida eng birinchi chiqgan va keng tarqalgan Uno platadan foydalanib Arduinoni o'rganamiz.
+Arduino platada mikrokontrollernin kuchi, plataning razmeri, tashqi elektron qurilmalar bilan bog'lash uchun kirish/chiqish portlar\(PIN\)ning soni va hokazoga qarab bir nechta turlari bor. Har bir plataning xususiyatiqa qarab o’zingiz amalga oshiradigan loyihaga mos platani tanlab olishingiz lozim. _**Arduino plata orasida eng birinchi chiqgan va keng tarqalgan Uno platadan foydalanib Arduinoni o'rganamiz**_.
 
 ![](.gitbook/assets/image%20%2812%29.png)
 
