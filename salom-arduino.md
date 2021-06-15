@@ -14,7 +14,7 @@ Arduino platada razmer eng katta va qora rangli tortburchak qismi **mikrokontrol
 
 ![Atmel korxonadagi Atmega 328p chipi](.gitbook/assets/image%20%2811%29.png)
 
-## Arduino plata turlari
+### Arduino plata turlari
 
 Arduino platada mikrokontrollernin kuchi, plataning razmeri, tashqi elektron qurilmalar bilan bog'lash uchun kirish/chiqish portlar\(PIN\)ning soni va hokazoga qarab bir nechta turlari bor. Har bir plataning xususiyatiqa qarab o’zingiz amalga oshiradigan loyihaga mos platani tanlab olishingiz lozim. _**Arduino plata orasida eng birinchi chiqgan va keng tarqalgan Uno platadan foydalanib Arduinoni o'rganamiz**_.
 
