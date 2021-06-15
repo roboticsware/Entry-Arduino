@@ -1,4 +1,4 @@
-# Salom, Arduino!
+# 1. Salom, Arduino!
 
 ### Arduino o'zi nima?
 

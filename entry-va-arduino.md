@@ -1,4 +1,4 @@
-# Entry va Arduino
+# 2. Entry va Arduino
 
 [Entry haqida batafsil kitobi](https://neopia-uz.gitbook.io/entry) alohida borligidan shuyerda qisqartirib yoziladi. [Scratch](https://scratch.mit.edu)dan ko'ra Entryning afzaligi Entry ichida blok koding orqali Arduino va boshqa 60tadan ziyod texnik ta'minotini boshqardigan dasturlashishni o'rganadigan imkon borligidir. Entryni Arduinoga ulaganda quydagi rasmday **Arduinoni boshqaradigan ichki bloklari** paydo bo'ladi.
 
@@ -12,5 +12,7 @@ Hamda **blok kodlar orqali tuzgan kodlari haqiqiy Arduino C++ text kodlarda qand
 
 ![](.gitbook/assets/image%20%2814%29.png)
 
+Undan tashqari Arduino C++ tiliga aylantirish ikoni yonidagi kodlarni qurilmaga yuklab qo'yish ikonini boshib **o'zingiz dasturlashgan kodlarini Arduino ichidagi xotirasiga saqlab qo'yish mumkin.** Arduinoga yuklab qo'yishda nima xatolar bor-yo'qligini konsol ekranda ko'rsatadi. **Keyin Arduino o'zi Entry bilan ulanishga qaramasdan o'zining xotrasida saqlangan kodlar orqali bir o'zi ishlaydi**. 
 
+![](.gitbook/assets/image%20%2817%29.png)
 
