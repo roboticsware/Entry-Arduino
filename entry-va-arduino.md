@@ -14,5 +14,5 @@ Hamda **blok kodlar orqali tuzgan kodlari haqiqiy Arduino C++ text kodlarda qand
 
 Undan tashqari Arduino C++ tiliga aylantirish ikoni yonidagi kodlarni qurilmaga yuklab qo'yish ikonini boshib **o'zingiz dasturlashgan kodlarini Arduino ichidagi xotirasiga saqlab qo'yish mumkin.** Arduinoga yuklab qo'yishda nima xatolar bor-yo'qligini konsol ekranda ko'rsatadi. **Keyin Arduino o'zi Entry bilan ulanishga qaramasdan o'zining xotrasida saqlangan kodlar orqali bir o'zi ishlaydi**. 
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](.gitbook/assets/image%20%2822%29.png)
 
